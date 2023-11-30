@@ -10,6 +10,7 @@ It is a task scheduling software that allows a user to add, edit, delete tasks t
 - src/Head.jsx - Contains header.
 - src/Home.jsx - Contains default page.
 - src/Display.jsx - Display details of a task.
+- working_demo - It contains screenshots and video demonstrating working of the project.
 
 ## Dependencies Used
 - Tailwind CSS
