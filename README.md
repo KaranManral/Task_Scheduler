@@ -24,7 +24,7 @@ It is a scheduling software that allows a user to add, edit, delete tasks to a t
 6. Tasks sorted according to completion status.
 
 ## How to setup project
-1. Clone the github repository using git clone https://
+1. Clone the github repository using "git clone https://github.com/KaranManral/Task_Scheduler.git" in terminal.
 2. Navigate to project folder using "cd".
 3. Wite npm install in terminal and press enter.
 4. Write npm start and press enter.
